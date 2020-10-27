@@ -1,0 +1,9 @@
+- section: Kadalu RFCs
+  chapters:
+    - title: Introduction
+    - title: 0001-external-gluster-storage
+    - title: 0002-test-framework-binnacle
+    - title: 0003-kadalu-thin-arbiter-support
+    - title: 0004-gluster-error-codes
+    - title: 0005-external-control-plane-gluster
+    - title: 0006-optimized-quota-feature-with-namespace
